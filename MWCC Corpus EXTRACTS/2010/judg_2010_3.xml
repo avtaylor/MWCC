@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<TEI.2 id="judg_2010_3" lang="en" n="2010_3">
+  <teiHeader date.created="2020-04-20" lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title type="main">The Republic Vs Steven Kadyankena</title>
+          <title type="sub">Confirmation Case No 512 of 2005</title>
+        </title>
+      </titleStmt>
+      <extent>10 paragraphs segments</extent>
+      <publicationStmt>
+        <publisher>Amelia Taylor, tNyasa Data Labs</publisher>
+        <distributor>Amelia Taylor,tNyasa Data Labs,avtaylor14[at]gmail.com</distributor>
+        <availability>COND_AVAILABILITY</availability>
+        <date>April,2020</date>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only the court cases held at the Malawi Judiciary are deemed authentic.</note>
+      </notesStmt>
+      <sourceDescr>
+        <bibl>Malawi Criminal Cases Corpus, covering 2010 - 2019, Copyright: Amelia Taylor.</bibl>
+      </sourceDescr>
+      <projectDescr>The corpus was part of a project &quot;Semi-automatic Tools for Meta-Data extraction from Malawi court judgments.The project received a grant from AI4D.</projectDescr>
+      <classDecl>
+        <taxonomy>
+          <category xml:id="casetype">
+            <catDesc>The type of case: order, bail, application, review, etc.</catDesc>
+          </category>
+          <category xml:id="courtofhearing">
+            <catDesc>Criminal and which courts heard the case.</catDesc>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </fileDesc>
+    <textclass>
+      <catRef target="#casetype">
+        <keywords>
+          <list type="casetype">
+            <item>RULING</item>
+          </list>
+        </keywords>
+      </catRef>
+      <catRef target="#courtofhearing">
+        <keywords>
+          <list type="courts">
+            <item>IN THE HIGH COURT MALAWI</item>
+            <item>PRINCIPAL REGISTRY</item>
+           <item>Second Grade Magistrate Court sitting at Mwanza</item>
+          </list>
+        </keywords>
+      </catRef>
+    </textclass>
+  </teiHeader>
+  <text>
+    <front>
+      <list type="caseinfo">
+        <item>CONFIRMATION CASE NO  512 OF 2005</item>
+        <item>CRIMINAL CASE NO  S 37 OF 2005</item>
+        <item>BEING S</item>
+      </list>
+      <list type="parties">
+        <item>THE REPUBLIC</item>
+        <item>STEVEN KADYANKENA</item>
+      </list>
+      <list type="coram">
+        <item>Hon  Kamwambe  J</item>
+      </list>
+    </front>
+    <body>
+      <p n="2">The convict was not brought before court by the Prisons authorities so I proceeded to handle the matter in Chambers since no adverse effects would affect the convict. The convict was charged with house breaking and theft contrary to sections 309 (a) and 278 respectively. He was sentenced to 18 months imprisonment with hard labour for house breaking and 18 months for house breaking is grossly inadequate but I will not consider it now as the review judge did not raise the issue and much more that the convict is not present to be heard on the matter, so too the State.</p>
+      <p n="3">The review judge was concerned with the manner plea was taken in an omnibus way and that elements of the offences were not put forward to the accused. I do concur that an</p>
+      <p n="4"> omnibus plea to two counts is irregular. The accused pleaded as such:-</p>
+      <p n="5">&quot;l admit all the two counts. &quot;</p>
+      <p n="6">This is irregular as the admission should be to each count separately.</p>
+      <p n="7">Further, after a guilty plea, the elements of the offences were not put forward to the accused for specific separate admissions. It was stated in Magwaya v The Rep MLR vol 8 at 323 that admission of charge in general words without reference to separate ingredients of the offence is equivocal and defective. However, where a guilty plea is defective it may be cured if accused agreed to statement of facts which is sufficient to substantiate the charge. The accused then confirmed that the facts were correct which facts supported the offences charged.</p>
+      <p n="8">For the above reason I uphold the conviction but the case may be set down again to consider sentence.</p>
+      <p n="9">Made in Chambers this 27th day of May 2005 at Blantyre.</p>
+      <p n="10"> M.L. Kamwambe</p>
+    </body>
+  </text>
+</TEI.2>

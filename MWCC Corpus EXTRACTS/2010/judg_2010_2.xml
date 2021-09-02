@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<TEI.2 id="judg_2010_2" lang="en" n="2010_2">
+  <teiHeader date.created="2020-04-20" lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title type="main">Robert Katsonga Vs The Republic</title>
+          <title type="sub">Miscellaneous Criminal Case No 31 of 2010</title>
+        </title>
+      </titleStmt>
+      <extent>19 paragraphs segments</extent>
+      <publicationStmt>
+        <publisher>Amelia Taylor, tNyasa Data Labs</publisher>
+        <distributor>Amelia Taylor,tNyasa Data Labs,avtaylor14[at]gmail.com</distributor>
+        <availability>COND_AVAILABILITY</availability>
+        <date>April,2020</date>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only the court cases held at the Malawi Judiciary are deemed authentic.</note>
+      </notesStmt>
+      <sourceDescr>
+        <bibl>Malawi Criminal Cases Corpus, covering 2010 - 2019, Copyright: Amelia Taylor.</bibl>
+      </sourceDescr>
+      <projectDescr>The corpus was part of a project &quot;Semi-automatic Tools for Meta-Data extraction from Malawi court judgments.The project received a grant from AI4D.</projectDescr>
+      <classDecl>
+        <taxonomy>
+          <category xml:id="casetype">
+            <catDesc>The type of case: order, bail, application, review, etc.</catDesc>
+          </category>
+          <category xml:id="courtofhearing">
+            <catDesc>Criminal and which courts heard the case.</catDesc>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </fileDesc>
+    <textclass>
+      <catRef target="#casetype">
+        <keywords>
+          <list type="casetype">
+            <item>RULING</item>
+          </list>
+        </keywords>
+      </catRef>
+      <catRef target="#courtofhearing">
+        <keywords>
+          <list type="courts">
+            <item>IN THE HIGH COURT OF MALAWI</item>
+            <item>PRINCIPAL REGISTRY</item>
+          </list>
+        </keywords>
+      </catRef>
+    </textclass>
+  </teiHeader>
+  <text>
+    <front>
+      <list type="caseinfo">
+        <item>CRIMINAL CASE NO  31 OF 2010</item>
+        <item>ELLEUS</item>
+      </list>
+      <list type="parties">
+        <item>ROBERT KATSONGA</item>
+        <item>THE REPUBLIC</item>
+      </list>
+      <list type="coram">
+        <item>HON  JUSTICE J M  CHIRWA</item>
+        <item>Lemucha of Counsel for the State</item>
+        <item>Chitsakamile of Counsel for the Accused</item>
+        <item>Ms Nyirenda Official Interpreter</item>
+      </list>
+    </front>
+    <body>
+      <p n="2">This is an Application for bail by ROBERT KATSONGA (hereinafter called &quot; the Applicant&quot;) under Section 42 (2) (e) of the Constitution of the Republic of Malawi as read with Section 1 18 of the Criminal Procedure and Endence Code. According to the Affidavit of BENEDICTUS CHITSAKAMILE, a Legal Practitioner in the firm of M/S Chagwamnjira and Company the Applicant was arrested by the Police at Thyolo and remanded in custody on the 24th day of December, 2009 on an allegation of the murder of some unknown person who was found dead in the Applicant's garden. The Applicant remains in custody to this date.</p>
+      <p n="3"> When the Application for bail came up for hearing on the 22nd day of March, 2010 the State indicated that though the docket for this case had come to their custody on the 19th day of March, 2010 and that efforts to verify the facts of the case as deponed to by the Applicant's Counsel had been made by the 20th day of March 201 0, the State were unable to print out the documents which they had prepared in response to the Application. As such the State prayed that this Court should proceed to consider the Application for bail without the State's Response.</p>
+      <p n="4">Much as the State has taken this stand I adjourned the matter for Ruling in order to consider if it is in the interest of justice that the Applicant be released on bail as prayed by his Counsel. This I did having regard to the provisions of Section 3 Part II (a) of the Bail (Guidelines) Act which provide as follows:-</p>
+      <p n="5">&quot;Notwithstandng the fact that the prosecution does not oppose the granting of bail, the court has the duty to weigh up the personal interests of the accused against the interests of justice. &quot;</p>
+      <p n="6">In other words the determining factor whether or not to grant bail to the Applicant should depend on the interests of justice.</p>
+      <p n="7">By Guideline 4 of Part II of the said Bail (Guidelines) Act it is provided that in deciding whether or not bail should be granted the court should take into account the following principles:-</p>
+      <p n="8">a) the likelihood that the accused, if released on bail, will attempt to evade his or her trial;</p>
+      <p n="9">b) the likelihood that the accused , if he or she were released on bail, will attempt to influence or intimidate witnesses or to conceal or destroy evidence;</p>
+      <p n="10"> c) the likelihood that the accused, if he or she were released on bail, will endanger the safety of the community or will commit an offence; and</p>
+      <p n="11">d) in exceptional circumstances, the likelihood that the release of the accused will disturb the public order or undermine the public peace or security.</p>
+      <p n="12">I have perused the Affidavit evidence before this Court and I am satisfied that the Applicant at an advanced age of 90 years and with the family responsibilities which he has is unlikely to attempt to evade his trial if released on bail. I also do not see how he will attempt to influence or intimidate witnesses or to conceal or to destroy the evidence given the fact that his only connection to the commission of the offence is the fact the deceased was found in his garden without more. I also do not see how he could be a danger to the safety of the community or would commit another offence. And finally, I do not see the likelihood that the Applicant can disturb the public peace or security.</p>
+      <p n="13">In the circumstances I am inclined to release the Applicant on bail on the following conditions:-</p>
+      <p n="14">to provide two acceptable sureties each in the sum of K20,000.00, not cash, the sureties to be assessed by the Registrar of this Court as to their suitability;</p>
+      <p n="15">to report to the Police Officer-ln-Charge of the nearest Police Station to his residence once a week on Mondays;</p>
+      <p n="16">to surrender to the said Officer any travel documents that he may have; and</p>
+      <p n="17">not to leave the area of his normal residence without first obtaining permission from the said Officer-In-</p>
+      <p n="18"> Charge indicating to him the destination and length of his stay.</p>
+      <p n="19">Delivered at Blantyre this.... ................day of.... .... ..... 010</p>
+    </body>
+  </text>
+</TEI.2>

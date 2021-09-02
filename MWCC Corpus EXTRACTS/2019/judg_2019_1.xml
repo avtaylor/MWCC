@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<TEI.2 id="judg_2019_1" lang="en" n="2019_1">
+  <teiHeader date.created="2020-04-20" lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title type="main">The State Vs Hanwell Ngambi and Owen Mtawali</title>
+          <title type="sub">Murder Case  No 171 of 20181</title>
+        </title>
+      </titleStmt>
+      <extent>10 paragraphs segments</extent>
+      <publicationStmt>
+        <publisher>Amelia Taylor, tNyasa Data Labs</publisher>
+        <distributor>Amelia Taylor,tNyasa Data Labs,avtaylor14[at]gmail.com</distributor>
+        <availability>COND_AVAILABILITY</availability>
+        <date>April,2020</date>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only the court cases held at the Malawi Judiciary are deemed authentic.</note>
+      </notesStmt>
+      <sourceDescr>
+        <bibl>Malawi Criminal Cases Corpus, covering 2010 - 2019, Copyright: Amelia Taylor.</bibl>
+      </sourceDescr>
+      <projectDescr>The corpus was part of a project &quot;Semi-automatic Tools for Meta-Data extraction from Malawi court judgments.The project received a grant from AI4D.</projectDescr>
+      <classDecl>
+        <taxonomy>
+          <category xml:id="casetype">
+            <catDesc>The type of case: order, bail, application, review, etc.</catDesc>
+          </category>
+          <category xml:id="courtofhearing">
+            <catDesc>Criminal and which courts heard the case.</catDesc>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </fileDesc>
+    <textclass>
+      <catRef target="#casetype">
+        <keywords>
+          <list type="casetype">
+            <item>JUDGMENT</item>
+          </list>
+        </keywords>
+      </catRef>
+      <catRef target="#courtofhearing">
+        <keywords>
+          <list type="courts">
+            <item>HIGH COURT</item>
+            <item>IN THE HIGH COURT OF MALAWI</item>
+            <item>MZUZU REGISTRY</item>
+            <item>MURDER CASE NO  171 OF 2018</item>
+            <item>THE STATE</item>
+            <item>VERSUS</item>
+            <item>HANWELL NG AMBI</item>
+            <item>OWEN MTAWALI</item>
+          </list>
+        </keywords>
+      </catRef>
+    </textclass>
+  </teiHeader>
+  <text>
+    <front>
+      <list type="caseinfo"/>
+      <list type="parties"/>
+      <list type="coram">
+        <item>HON  JUSTICE T R  LIGOWE</item>
+        <item>D  Shaibu of Counsel for the State</item>
+        <item>N  Mdazizira of Counsel for the accused</item>
+        <item>G  Msukwa  Official Interpreter</item>
+        <item>J N  Chirwa  Court Reporter</item>
+      </list>
+    </front>
+    <body>
+      <p n="1">This case is against two accused persons, Hanwell Ng'ambi and Owen Ntawali. They are both charged with murder contrary to S. 209 of the Penal Code on allegations of causing the death of Haswell Ng'ambi with malice afore thought on the night of 3rd to 4th July 2018 at Chiputula in the City of Mzuzu. Owen Mtawali is 17 years old and a child under the Child Care, Protection and Justice Act as read with the case of The State v. The Second Grade Magistrate 's Court (Thyolo) and Malawi Prion Service, Ex parte Stanford Kashuga, Misc. Civil Cause No. 129 of 2012 (Principal Registry) (unreported). He therefore has to be tried separately in accordance with S. 136 of the</p>
+      <p n="2"> The State opted to start with Hanwell Ng'ambi. He pleaded not guilty to the charge. The court heard evidence from Mr Humphreys Sing'ambi, Phales Kamwera, Clara Ng'ambi, George Mtawali and Detective Sub Inspector Aubrey Mwakhwawa in support of the allegation and the prosecution closed its case. This judgment is in accordance with Ss. 254 and 313 of the Criminal Procedure and Evidence Code which allow the court to deliver a judgment acquitting the accused if a case has not been made out sufficiently against the accused to require him to make a defence.</p>
+      <p n="3">For the court to determine whether a case has been made out sufficiently for the accused to make his defence, it considers whether on the face of the available evidence, the essential elements of the alleged offence have been proved, or whether the evidence has not been so discredited as a result of cross examination, or whether the evidence is not so manifestly unreliable that a reasonable tribunal could convict on it if the accused gave no explanation. See Namonde v. Rep (1993) 16(2) MLR 657.</p>
+      <p n="4">After hearing the evidence in this case I find that the deceased was found dead by his wife Phales Kamwera around 10.00 AM on 4th July 2018 in the house he was sleeping with his brother, the accused. The body was examined at Mzuzu Central Hospital and found to have four cut wounds on the anterior neck, a deep cut on the left chest between the 3rd and 4th rib communicating to the heart sac. And the heart sac was full of blood. The examiner concluded that death occurred as a result of severe internal bleeding due to assault by a sharp object.</p>
+      <p n="5">The house the deceased and the accused were sleeping is within the compound of their father's house at Chiputula in the City of Mzuzu. That very morning, 4th July 2018, before it was known that Haswell had died, the accused had found a blood stained knife under his bed. He was surprised with it and he brought it to the attention of his father. The father, not sure what had stained the knife, thought it was tomatoes because it was a kitchen knife for the home. Mr Humphreys Sing' ambi and Phales Kamwera have no clue as to who might have caused the death.</p>
+      <p n="6"> Clara Ng'ambi is Humphreys Singa'mbi's granddaughter. She visited the home on 3 July 2018 from Mchengautuba wheye she lives. She met her uncle, the deceased, around 3. 00 PM as she went out to see a friend at a neighbouring house. The deceased gave her a blue Samsung cell phone to keep, to avoid him facing problems with it. When she was about to go back to Mchengautuba around 5.00 PM, she went to the uncle's house to give back the phone. When she knocked, two people answered her to get in. Owen Mtawali came out to receive the phone. She only saw the feet of his uncle lying on the bed. In cross examination she stated that she heard the voices of Owen Mtawali an Hanwell Ng'am,bi talking in the house.</p>
+      <p n="7">George Mtawali is Humphreys Singa'mbi's grandson. He lives with his grandfather at Chiputula. He was called to tell whether there had been any grudges between the deceased and the accused. His evidence gave no indication of any grudges between the two. He admitted that they would quarrel over food sometimes but they normally agreed afterwards.</p>
+      <p n="8">Detective Sub Inspector Aubrey Mwakhwawa's evidence was that in the course of his investigations, he discovered that on 2nd July 2018, the deceased had complained of having lost his dark blue Samsung cell phone. The phone was found being used by Owen Mtawali the following day and he returned it. On 8th July 2018 after both accused persons had been arrested, Tiwonge Kayange while cleaning, found the cell phone under Owen Mtawali's mattress bearing Owen Mtawali's sim card. When cross examined Sub Inspector Aubrey Mwakhwawa stated that he does not know the person who killed the deceased. He arrested the accused because he was sleeping in the same house as the deceased and he had not reported about the condition of his brother that morning. He agreed however that there is no evidence indicating that the accused saw the deceased wounded. In my view this could be explained by evidence given by Phales Kamwera that the two had different bedrooms in the house facing the same direction and it was not possible to see in one bedroom while coming out of the other when going out of the house.</p>
+      <p n="9"> The evidence before this court does not seem to connect the accused with the killing of the deceased. Yes he was sleeping in the same house as the deceased and he might have been heard speaking with Owen Mtawali in the house around 5.00 PM the day before the deceased was found dead, but these do not make out a case sufficiently against the accused, requiring him to make a defence. He is acquitted.</p>
+      <p n="10">Delivered in open court, this 14th day of February 2019.</p>
+    </body>
+  </text>
+</TEI.2>

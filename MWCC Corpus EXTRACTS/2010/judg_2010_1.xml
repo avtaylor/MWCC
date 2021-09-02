@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<TEI.2 id="judg_2010_1" lang="en" n="2010_1">
+  <teiHeader date.created="2020-04-20" lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title type="main">Lawrence Chibwana Vs The State</title>
+          <title type="sub">Criminal Appeal No 42 of 2010</title>
+        </title>
+      </titleStmt>
+      <extent>113 paragraphs segments</extent>
+      <publicationStmt>
+        <publisher>Amelia Taylor, tNyasa Data Labs</publisher>
+        <distributor>Amelia Taylor,tNyasa Data Labs,avtaylor14[at]gmail.com</distributor>
+        <availability>COND_AVAILABILITY</availability>
+        <date>April,2020</date>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only the court cases held at the Malawi Judiciary are deemed authentic.</note>
+      </notesStmt>
+      <sourceDescr>
+        <bibl>Malawi Criminal Cases Corpus, covering 2010 - 2019, Copyright: Amelia Taylor.</bibl>
+      </sourceDescr>
+      <projectDescr>The corpus was part of a project &quot;Semi-automatic Tools for Meta-Data extraction from Malawi court judgments.The project received a grant from AI4D.</projectDescr>
+      <classDecl>
+        <taxonomy>
+          <category xml:id="casetype">
+            <catDesc>The type of case: order, bail, application, review, etc.</catDesc>
+          </category>
+          <category xml:id="courtofhearing">
+            <catDesc>Criminal and which courts heard the case.</catDesc>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </fileDesc>
+    <textclass>
+      <catRef target="#casetype">
+        <keywords>
+          <list type="casetype">
+            <item>JUDGEMENT</item>
+          </list>
+        </keywords>
+      </catRef>
+      <catRef target="#courtofhearing">
+        <keywords>
+          <list type="courts">
+            <item>REPUBLIC OF MALAWI</item>
+            <item>MALAWI JUDICIARY</item>
+            <item>IN THE HIGH COURT OF MALAWI</item>
+            <item>MZUZU DISTRICT REGISTRY</item>
+          </list>
+        </keywords>
+      </catRef>
+    </textclass>
+  </teiHeader>
+  <text>
+    <front>
+      <list type="caseinfo">
+        <item>CRIMINAL APPEAL NO  42 OF 2010</item>
+        <item>CRIMINAL CASE NO 120 OF 2010</item>
+        <item>BEING KARONGA FGM COURT</item>
+      </list>
+      <list type="parties">
+        <item>LAWRENCE CHIBWANA</item>
+        <item>THE STATE</item>
+      </list>
+      <list type="coram">
+        <item>HON MR  JUSTICE D T K  MADISE</item>
+        <item>Mr  L B T  Ndovi  Counsel for the Appellant</item>
+        <item>Mr  Nicely Msowoya  Counsel for the State</item>
+        <item>Mr  I  Zimba Bondo  Official Interpreter</item>
+        <item>Mrs  F  Silavwe  Court Reporter</item>
+      </list>
+    </front>
+    <body>
+      <p n="2"> INTRODUCTION. The Appellant in this matter Lawrence Chibwana was convicted of the offence of bringing in property dishonestly acquired outside the country contrary to section 331, Penal Code. It was alleged that the Appellant on or about the 24th day of June, 2009 at Songwe Border post in Karonga brought into Malawi a Scania truck motor vehicle with chassis No 4594569and Engine NO 1 387254, 62 Fridges and 100 compressors, all valued at K2,491 ,OOO.OO.</p>
+      <p n="3">The allegation was that the said properties were dishonestly obtained by the Appellant in Dar-es-Salaam, Tanzania by transferring the title of the said properties from the name of the consignee a Mr. Karhakubwa Dieu, Donne of Democratic Republic of Congo into his own name after paying shipping charges, thereby evading the purchase price.</p>
+      <p n="4">The Appellant denied the charge and after a full trial he was found guilty, convicted and sentenced to a prison term of 12 months but suspended for 24 months. Being unsatisfied with the decision of the lower court, he now appeals to this Court against conviction, sentence and order.</p>
+      <p n="5">GROUNDS OF APPEAL The Appellant filled 19 grounds of Appeal which we reproduce as</p>
+      <p n="6"> a) The Learned Magistrate erred in law in convicting the accused against the weight of evidence. b) The Learned Magistrate misdirected himself in rejecting on the wrong premise in law the admissibility of the London Interpol Report which exculpated the Appellant and could have lead to his acquittal. c) The Learned Magistrate misdirected himself and in the process erred in law in concluding that the burden of proof had been discharged. d) That the Learned Magistrate, with respect to him grossly misdirected himself on the standard of proof expected by the court from the prosecution. e) The Learned Magistrate erred in law in starting from the presumption of guilt and ignoring the constitutional concept of presumption of innocence which is also the position at common law and statute law. f) The Learned Magistrate erred in law in ignoring the evidence of the accused which ought to have been treated equally. g) The Learned Magistrate misdirected himself in law and on facts in concluding by implication of the conviction that there was no suppression of vital witnesses and pivotal evidence. h) The Learned Magistrate misdirected himself in his finding that the accused actually transferred properly to himself dishonestly in Dar-es-Salaam which fact the prosecution failed to prove.</p>
+      <p n="7"> i) The Learned Magistrate grossly misdirected himself in both fact and law in concluding that the bringing in property was in this case correlated to the dishonesty which is inconsistent with the innocent and normal importation. j) That the Learned Magistrate shut his eyes to the clear suppression of evidence and witnesses who would otherwise have given evidence in favour of the accused. k) That there was literally no evidence against the accused. l) That there were material contradictions in the testimony of prosecution evidence. That the Learned Magistrate ignored the evidence of alibi by the accused that he was neither in London nor Dar- es-SaIaam at the material time of transactions in issue. n) The ownership of the cargo had remained in the shipper's Sitruck, who held the original Bill of Landing, a key document of ownership in Export Sale. o) That the shippers legally assumed the position of a seller to lawfully exercise the right of sale upon default in clearing the cargo and payment within specified time by Donne. p) That the state was lawful and passed properly in the goods (cargo) to Lawrence Chibwana who bought in good faith for value without any notice of encumbrance. q) That as a result the learned Magistrate analysis of evidence resulted in miscarriage of justice as no actus reus by him was established.</p>
+      <p n="8"> r) That not all elements of the offence were proved by the prosecutor let alone the main one of dishonesty in Dar-es- Salaam and indeed anywhere else. s) That appeal being on both law and facts amounts to rehearing and put subject the totality of the evidence to a fresh scrutiny and evaluate and quash the conviction upon its own variant findings if the magistrate's finding turn out to have been wrong.</p>
+      <p n="9">THE ISSUES. There are basically two issues for determination before this court.</p>
+      <p n="10">Whether the conviction can be supported by the</p>
+      <p n="11">Whether the sentence and or order was/were within jurisdiction.</p>
+      <p n="12">SKELETAL ARGUMENTS. Both the Defence and the State filed skeletal arguments with the view to persuade Court to follow their line of thinking. I'm delighted and I must confess that both sides argued their cases well and this Court has benefited a lot from the law as</p>
+      <p n="13">researched. In brief the Defence contends that the conviction should be quashed as it was unsafe as the evidence was not strong. The State on the other hand argued that the conviction was safe as there was enough evidence to prove that the Appellant stole the truck. They prayed to Court to dismiss the appeal and confirm the sentence and order.</p>
+      <p n="14"> THE EVIDENCE The Appellant a Malawi citizen from Malemia village Traditional Authority Malemia in Zomba is a resident of Ndirande Township in Blantyre. He is a businessman engaged in the business of bringing motor vehicles from United Kingdom into Malawi for sale. The Complainant is a national of the Democratic Republic of the Congo and also a business man who in the Kiev region.</p>
+      <p n="15">When called upon to give evidence Karhakubwa Dieu Donne stated that in February, 2009 he started a transaction with T.G Commercials in London to purchase a motor vehicle. The agreed price was E5, 400 and the same was sent to T.C commercial's account with HSBC Bank, 35 college street, Rotherham, South Yorkshire 565 IAF, sort code 403907, Account No SB 31 MIDL40390791302760, SWIFT CODE MIDLGB22 (exhibit l). This was followed by a Performa invoice on 10 February 2009. PW I then sent the E5.400 and there was issued a document to evidence the wire transfer (exhibit 3).</p>
+      <p n="16">After the money was paid T.G. Commercial then sent a confirmatory note on 18 February 2009 through a sale invoice (exhibit 4) as evidence of the sale. It was agreed that the vehicle was to be collected from Dar-es-salaam. PW 1 stated that he then received a test certificate, (exhibit 5) copy of the Blue book exhibit 6) and a planting certificate (exhibit 7).</p>
+      <p n="17"> On 29th June, 2009 PW I wrote TG commercials demanding his vehicle. In that e-mail (exhibit 8) PW I complained that he went to the port of Dar but he did not found his vehicle T.G Commercials replied (exhibit 9) on I July, 2009 that the vehicle was delivered to port as instructed by PW I and the latter was supposed to check with his shipping agent as he had arranged shipping himself. On 29th July, 2009 PW I replied through e-mail that he had information that the vehicle was sold to another person from Malawi and he</p>
+      <p n="18">demanded more details from TG Commercials. He also threatened to take illegal action. Apart from the vehicle PW I told Court that he also bought 70 fridges and 100 compressors. He tendered in evidence a document to the same effect (exhibit 10)</p>
+      <p n="19">PW I also tendered in evidence a bill of lading (exhibit I l) showing that the goods left London on 17 March 2009 and were sent by Fabiano to Karhakubwa in Kiev, DR Congo. He told court that he never received the vehicle or the other goods whose total value</p>
+      <p n="20">He stated that Fabiano of Sitruck was the shipping agent and had charged E8.500 for the service. Unfortunately and according to PW I , Fabiano was not forthcoming as he was not communicating with PW l. It was later alleged that Fabiano started insulting PW I . According to him the vehicle was sold away before it left London, shipped in May, 2009 and stolen by the Appellant in Dar.</p>
+      <p n="21"> the vehicle after 10 July, 2009 to reclaim their charges.</p>
+      <p n="22">PW2 was Dickson Mzowa an employee of Malawi Revenue Authority (MRA) at Songwe Boarder. He tendered in evidence a document dated 24June 2009 prepared by a Mr. Mwaulambo a clearing agent from Elvis Freight. It was a customs declaration form far a Scania Truck Reg. IT 4569 (exhibit 13)</p>
+      <p n="23">PW2 also presented before Court an invoice (exhibit 15) of the vehicle showing that it was bought from Sitruck of Essex in England and the buyer was the Appellant trading as Chembe Investments of PO Box 1409 in Blantyre. PW2 also presented before Court a delivery order. The shipper was Diamond Shipping Services and the recipient was Mr. Lawrence Chibwana.</p>
+      <p n="24">The consignment was shipped on 17 March 2009. PW I also told court that the clearing agent presented a declaration form which included ocean freight, port charges and value of vehicle. All the documents were in the name of the Appellant. After inspecting the vehicle the value of the vehicle was uplifted from ,900 to</p>
+      <p n="25">PW3 was Chawezi Mguntha an employee of MRA stationed at Songwe Border. He stated that on 24 June, 2009 he examined the fridges that were loaded on a vehicle belonging to the Appellant.</p>
+      <p n="26"> In total there were 70 fridges and 100 compressors. PW3 stated that 8 fridges and 6 compressors were not allowed entry into Malawi for not being environmentally friendly.</p>
+      <p n="27">PW4 Rodgers Mkandawire a clearing agent for Safari Freight stationed at Songwe Border. He told court he had cleared goods for the Appellant on 26 June, 2009. These were 70 fridges and 100 pieces of compressors less those not allowed entry into Malawi.</p>
+      <p n="28">PW5 was Detective Inspector Yobe from Central Region Police Headquarters. He stated that he had received a report of bringing in property from outside Malawi which was unlawfully obtained. That when the Complainant went to check his vehicle and goods at Dar-es-salaam port he did not find them. After checking it was discovered that the Appellants had collected the vehicle after changing the original documents. The said change was done on 20 May 2009 at 2.02 pm at Dar-er-salaam. The offer to charge was sent by Sitruck limited through e-mail authored by Cherisse Smythe (smythechesse@aol.com. The title was &quot;vehicle for sale in Dar-er-salaam' .</p>
+      <p n="29">Sitruck then gave instructions as follows: Manifest Corrector Request for B/C No CBTZ949736</p>
+      <p n="30">&quot;Please could you arrange for a manifest corrector to be</p>
+      <p n="31">for B/C No GBTZ949736. Please note that the final</p>
+      <p n="32"> destination of the vehicle has now charged from Democratic Republic of Congo to Malawi. Please confirm once done.</p>
+      <p n="33">The document was marked exhibit 28.</p>
+      <p n="34">Once the vehicle was in Malawi the Appellant sold it to Mr. Chikambale Phwetekele. A sale agreement was prepared and signed. It was tendered in court and marked exhibit 29. The vehicle was eventually seized by the police. The Appellant was arrested, cautioned and charged but he elected to remain silent.</p>
+      <p n="35">PW5 told Court that he had failed to contact Fabiano due to financial problems and that Fabiano was the second suspect. He did not elaborate the kind of financial problems he had encountered in an attempt to contact Fabiano.</p>
+      <p n="36">PW6 Shadreck Manda working for Elvis Freight stationed at Songwe border stated that he had cleared a Scania truck brought into the country by the Appellant. At that stage the State closed its case. It is important to point out at this stage that this case was badly managed by the prosecution. They brought to Court too many witnesses who were saying the same thing and yet there was no dispute that the Appellant had brought the said vehicle into Malawi. One or two witnesses could have sufficed to prove this point. There was an unnecessary duplicity of evidence. What was in issue was whether the Appellant had obtained at</p>
+      <p n="37"> Dar-es-salaam the said vehicle dishonestly and brought the same into Malawi. However at the close of the prosecution case the court ruled that there was enough evidence to call upon the Appellant to make a reply. He elected to make a statement in</p>
+      <p n="38">DEFENCE In presenting him defence the Appellant stated that he was in the business of importing vehicles from England for sale in Malawi. He told court that he was called to Area 30 Police Headquarters over allegations that he had stolen a vehicle in Dar-es-salaam. He was eventually arrested and later released after 2 days.</p>
+      <p n="39">He told court that he never stole the vehicle but that he had bought. He made reference to exhibit 27 which was offering a vehicle, 70 fridges and 100 compressors for sale. The author of the advert posted on e-mail was Sitruck limited in UK. The Appellant was interested and he transferred money through his Bank (INDE Bank) into Fabiano's account who is the owner of Sitruck. He denied any knowledge that the vehicle belonged to the complainant or that it was destined for DR Congo. He denied ever dealing with TG Commercials or that he had any knowledge of any dealings between the Complaint and TG Commercials.</p>
+      <p n="40">The Appellant brought to the attention of the Court a document from Sitruck to Karhakubwa about the shipping costs of</p>
+      <p n="41"> which were not yet paid. There was another document (exhibit D3) which Sitruck wrote to Karharkubwa by e-mail which stated that the Complainant was not going to collect his vehicle unless he had made full payment and there after he was going to receive the bill of lading for him to collect his vehicle.</p>
+      <p n="42">When the Appellants attempted to tender a document from Interpol UK addressed to Interpol Malawi purporting to exonerate the Appellant from any wrong dealing, the State objecting to its production on the basis that the document was privileged and protected under UK law. The lower court agreed with the State and the document never saw the light of day in court. I will return to this issue latter on in this judgment. In conclusion the Appellant denied any wrong doing and insisting that he had bought and not stolen the vehicle from Sitruck limited in UK. That marked the</p>
+      <p n="43">end of the defence.</p>
+      <p n="44">THE LAW AND EVIDENCE Before we discuss the law and evidence it is pivotal that we must remind ourselves of the cardinal principles which are crucial in this matter. The starting point is the issue of the burden and standard of proof.</p>
+      <p n="45">Burden and standard of proof. It is trite that in this matter the State was duty bound to prove each and every element of this offence and the standard</p>
+      <p n="46"> required by the criminal law is beyond a reasonable doubt. The relevant provision is section 187(1) of the Criminal Procedure and Evidence Code which provides.</p>
+      <p n="47">The burden of proving any particular fact lies on the person who wishes the court or jury as the case may be to believe in its existence, unless it is provided by any written law that the proof of such fact shall lie on any particular person.</p>
+      <p n="48">Provided that subject to any express provision to the contrary in any written law the burden of proving that a person is guilty of an offence lies IJPOn the prosecution</p>
+      <p n="49">Our own local case is Namonde vs. Rep. [1993] 16(2) MLR 657 in which Chatsika, J. as he was then called, in affirming Lord Sankey views in Woolminqton vs. Director of Public Prosecution [1 935] AC 462, summed up the law as follows.</p>
+      <p n="50">&quot;It should be remembered that subject to any exception at common law, cases of insanity and to various statutory provisions, the prosecution bears the burden of proof on every issue in a criminal case.</p>
+      <p n="51"> The charge against the Appellant was bringing in property dishonestly acquired outside the country contrary to section 331 of the Penal Code which provides as follows:</p>
+      <p n="52">Any person who without lawful cause, knowing or having reason to believe the same to have been stolen or obtained in any way whatsoever under</p>
+      <p n="53">circumstances that if the act had been committed in Malawi the person committing it, would have been guilty of felony or misdemeanor receives or has in him possession any property so stolen or obtained outside Malawi or having himself so stolen or obtained such property, brings the same into or has it in possession within Malawi, shall be guilty of an offence of the like degree (whether felony or misdemeanor) and shall be liable to imprisonment for seven years.</p>
+      <p n="54">The Elements of the Offence. For the State to succeed they must prove the follows.</p>
+      <p n="55">The Appellant brought in property acquired outside the country. The said property was dishonestly acquired outside Malawi and or without lawful excuse.</p>
+      <p n="56"> The Appellant had knowledge or reason to believe that the same was dishonestly acquired.</p>
+      <p n="57">Bringing in property acquired outside Malawi As per the evidence there is no dispute at all that the Appellant had brought into Malawi from Tanzania a Scania truck, 70 fridges and 100 compressors. According to the evidence he had arrived at Songwe border and the truck, fridges and compressors were cleared by Malawi Revenue Authority through clearing agents. After the goods were cleared the Appellant was allowed entry into Malawi together With the truck and the other items.</p>
+      <p n="58">Dishonestly acquired This is where the parties differ and this court must determine who between the parties is saying the truth. Perhaps the Appellant did not know but we know that the Complainant Mr. Karhakubwa from Kiev in DR Congo bought a Scania truck, 70 fridges and 100 compressors from TG Commercials whose address was 4 Hellaby Lane, Hellaby Rotherham 566 8HN UK. There is documentation to the same effect. On 10 February, 2009 money was transferred to TG Commercials.</p>
+      <p n="59">Surprisingly on 29th June, 2009, four months after the sale, the Complainant sent an e-MaiI to TG Commercials demanding his vehicle. It is not clear what really happened between the two time periods. In the demand e-mail the Complainant stated that</p>
+      <p n="60"> he had been to Dar-es-salaam port to payetor freight charges but the vehicle was no where to be seen.</p>
+      <p n="61">On I July, 2009 TG Commercials replied that they had sold the Complainant the vehicle and the same was delivered to port as per instructions and that since the Complainant had arranged his own shipment he had to speak to the shippers. They regretted for being of no help.</p>
+      <p n="62">When the Complainant tried to communicate with the shippers he was told that the shippers never sold any vehicle to him and he was advised to stop sending e-mails to them. On 4 August 2009 the Complainant wrote TG Commercials that he had information that the vehicle was sold to another person in Malawi. It is important to note at this point the use of the word &quot;SOLD&quot; as opposed to &quot;STOLEN&quot;. This is how apparently the Complainant lost the vehicle.</p>
+      <p n="63">The Appellant on the other hand claims he bought the vehicle when it was advertised on an e-mail sent to him. The e-mail is dated 20 May, 2009. The advert is clearly stating that all the seller (Sitruck) wants are shipping charges amounting to The e- mails further states that once the money is paid the Appellant can have the vehicle and the consignee will be changed to what</p>
+      <p n="64"> The State had quarried the Appellant as to why the invoice (exhibit 15) was dated 10 February, 2009. He replied that it was an error. The truth is that on 10 February, 2009 the truck was still with TG Commercials. Actually that was the date the Complainant transferred money under document marked exhibit 3 to TG</p>
+      <p n="65">Commercials. It is therefore clear that the said truck could not have been in the hands of the shippers or Fabiano. I find that it</p>
+      <p n="66">was an error.</p>
+      <p n="67">On 4 June, Sitruck limited through Cherisse Smythe wrote an e- mail giving instructions to arrange a manifest corrector to be done for B/L NO GBTZ949736 which currently read Karhakubwa Dieu Donne, DRC to Lawrence Chibwana Malawi. The author further wrote &quot;please note the final destination of the vehicle has now changed from Democratic Republic of Congo to Malawi. The e-mail has a full address in Essex UK. According to the Appellant this is how he bought the truck, fridges and the</p>
+      <p n="68">compressors.</p>
+      <p n="69">When he was arrested he sought assistance from Sitruck limited in UK. In his letter dated 6 August, 2009 Fabiano Smythe the Director</p>
+      <p n="70">&quot;To Whom it may_ concern&quot;. This is to confirm that the vehicle Reg. No S318 RRT Chassis No 4394569 was shipped to Dar by the above company on 17 March, 2009 on the Toreador. Sitruck limited was instructed to ship this</p>
+      <p n="71"> vehicle on behalf of Karhakubwa Dieu Donne of Congo. Due to none payment of the shipping costs and additional costs to the extent of $6500, Sitruck limited had no alternative but to offer the vehicle to who ever was prepared to pay the shipping costs and the storage charges at Dar port. This vehicle had been sitting in Tanzania for over 30 days and storage was escalatlng at around IJS$ 85 per day.</p>
+      <p n="72">Mr. Lawrence Chibwana of Malawi who is also a customer of</p>
+      <p n="73">Sitruck limited was able to pay this cost and Sitruck then transferred the Bill of lading to his name. May I point out that Sitruck had no other alternative after numerous contact with the original consignee and none payment but to surrender the truck to someone else as the storage would add up and the Port would end up selling the vehicle by public auction and Sitruck limited would loose out on the shipping charges as the Port would retain the proceeds to cover storage.</p>
+      <p n="74">I had a visit from UK police about this issue and handed them all the relevant paperwork as they requested them. Please do not hesitate to contact me if I can be of any further assistance with regard to the above.</p>
+      <p n="75">Yours truly Fabiano Smythe. (Director)</p>
+      <p n="76"> The State did not lead evidence challenging the authenticity of this document or whether the address or telephone numbers were fake. In furtherance of their investigations the police referred the matter to Interpol Malawi who in turn consulted their colleges in IJK. Interpol UK responded in a document which was rejected by the trial court on the basis that it was protected from disclosure by two UK legislations.</p>
+      <p n="77">On a charge of receiving property knowing or having reason to believe the same to have been stolen or unlawfully obtained the State is duty bound to prove that the accused had the necessary mens rea to commit the offence. Jere, J in Aidani vs. Rep (1984 - 86) II MIL 178, in affirming this point stated as follows:-</p>
+      <p n="78">The prisoners must have received the stolen goods with knowledge &quot;then&quot; of their having been stolen (not knowledge obtained merely after taking possession). Such knowledge may be presumed, prima facie if he knew of circumstances so suspicious as to convince any reasonable man that the goods had been stolen — e.g. when an unlikely vendor offers them for an unlikely price at an unlikely hour. His subsequent conduct may be evidence of such knowledge. E.g. him hiding the goods or selling them</p>
+      <p n="79"> written entry of having bought them.</p>
+      <p n="80">The Appellant before us, did he know that the vehicle had originally belonged to the Complainant? Did the Appellant have any knowledge of any circumstances so suspicious as to convince him that something was wrong with the transaction? Was Sitruck an unlikely vendor offering goods at an unlikely price? Was the Appellant's subsequent conduct suspicious in the circumstances as to suggest that he had done something wrong? Was the Appellant not entitled to buy a vehicle which was being offered for sale by a shipping agent? It is common knowledge that shipping agents or port authorities have power to sale where there is none payments of shipping or storage charges. I have searched the evidence and I find no conduct on the part of the Appellant to raise any suspicion.</p>
+      <p n="81">Further did the Appellant try to conceal the vehicle or do any act to change the documents as to convince a reasonable person that he was trying to hide something? From the evidence the answer is in the negative. In Tagwira vs. Rep (1981-83) 10 MLR 149 Skinner C.J stated that:</p>
+      <p n="82">The word knowing in reference to section 328 (l) Penal Code meant that the accused had actual knowledge that the property was stolen such as</p>
+      <p n="83"> an awareness produced by participation in the theft or by information derived from the actual thieves or where he knew of facts from which the overwhelming conclusion was that the property was stolen.</p>
+      <p n="84">The words &quot;having reason to believe&quot; seem to us to refer to cases where the circumstances attendant on the transaction of sale are such as to engender a belief that the property was stolen, such as whether the sale was in public; why the property was bought and the adequacy or inadequacy of the price paid.</p>
+      <p n="85">In all farness and looking at the evidence in totality can we conclude that the Appellant had requisite knowledge within the definition at law? Can we conclude that the Appellant and Sitruck connived to steal the vehicle from the Complainant and bring it into Malawi? I do not think so.</p>
+      <p n="86">Protected communication. Our Constitution guarantees the right to access information in section 37 of the Constitution subject to any restriction imposed by an Act of Parliament. Unless the information so sought is protected by an Act of Parliament, there should be no restriction to access information. One such Act is the Official Secrets Act (Cap 14:01) laws of Malawi. In section 4(1) of the Act it is provided that anyone having in his possession or control any secret, official</p>
+      <p n="87"> code, word or pass word, or any sketch plan, model, article, note, document, or information and passes the same to any person</p>
+      <p n="88">other than a person to whom he is authorized to communicate it or a person to whom it is the interest of the State his duty to communicate shall be guilty of a misdemeanor.</p>
+      <p n="89">The Court takes judicial notice of the fact that International customary law protects lawful presidential and cabinet communications and acts from unnecessary disclosure. The rationale is that it would make the running of government virtually impossible if all communications were made available to the public.</p>
+      <p n="90">The other set of information protected are those touching on national intelligence and security whose disclosure might endanger the national security of Malawi. Thirdly communications between lawyers and clients or doctors and patients are also protected from unauthorized disclosure. This therefore means all information must be made available on request unless otherwise stated by an Act of Parliament or custom or that which endangers the security of Malawi. As to what document is sensitive to pose a security risk is subjective depending on construction by a court or a relevant government official.</p>
+      <p n="91">A document in reply to a query from Interpol posts in different countries can not be protected from disclosure, and in our case</p>
+      <p n="92"> which might endanger the national security of Malawi. A document prepared in furtherance to a criminal investigation is not protected. But even if it was protected courts are privy to have recourse to that piece of information in pursuit of justice.</p>
+      <p n="93">The lower court misdirected itself. The law that protected the Interpol document was a set of two UK legislations (Freedom of Information Act 2000 and the Data Protection Act 1998) which have no effect what so ever in Malawi as they are not statutes of general application. Only statutes which were in force in England on the eleventh day of August, 1902 and any such Acts as have been applied to or are from time to time in force in Malawi are statute of general application in Malawi.</p>
+      <p n="94">Foreign legislation not being statute of general application cannot gag courts of justice in this country unless otherwise stated. The document in question specially allowed that use of the information was solely for the designated purpose which was the investigation of the alleged stolen vehicle. It was, for all intents and purposes a vital piece of evidence which the Appellant was entitled to use. This is the genesis behind the doctrine of disclosure in criminal law. A document not used by the prosecution may be used by the defence.</p>
+      <p n="95"> allow this document and under which law? Section 356 Criminal Procedure and Evidence Code provides that:</p>
+      <p n="96">In dealing with an appeal from a Subordinate court the High Court, if it thinks additional evidence is necessary, shall record its reasons</p>
+      <p n="97">and may either take such evidence itself or direct it to be taken by a subordinate court.</p>
+      <p n="98">I think it will be in the interest of justice that I should allow the Interpol document to form part of the evidence.</p>
+      <p n="99">The reply from Interpol UK was as follows:</p>
+      <p n="100">With regard to your message regarding the above vehicle, Police have made enquiries with both Companies TG commercials and Sitruck. Please find attached details and copies of documentation.</p>
+      <p n="101">It would appear that as the shipping costs were not paid by Mr. Karhakubwa, Dieno Donne, within the specified time, the vehicle was sold to another buyer being Mr. Lawrence Chibwana.</p>
+      <p n="102">Why then did the State object to its being presented in court? One thing is clear. It was going to exonerate the Appellant. The</p>
+      <p n="103"> which if allowed and read together with other documents, could have resulted in the acquittal of the Appellant. This was a serious miscarriage of justice.</p>
+      <p n="104">I therefore find that the said properties were not dishonestly obtained outside Malawi. The Appellant bought the vehicle, fridges and compressors without breaking any law. He was a bona fide purchaser who had no knowledge of an encumbrances if they were any, to wit the sale between TG Commercials and Karhakubwa, or and failure of Karhakubwa to pay shipping charges to Sitruck</p>
+      <p n="105">Conclusion This was and is not a criminal case. This was purely a civil matter where the Complainant COUld have sought relief in a civil action if there was any. From the look of things the Complainant knew that he had no civil recourse against Sitruck since the time allowed to pay shipping charges had elapsed. He knew he had no case. Alternative he decided to lay a charge against an Innocent businessman naively hoping that the Malawi legal system and its laws and procedures were so easy to manipulate.</p>
+      <p n="106">It is very unfortunate that the Complainant decided to abuse our legal system and that the Malawi Police Service succumbed when there was information from Interpol UK that the Appellant</p>
+      <p n="107"> was an innocent man. What justification did Malawi Police have to arrest and charge the Appellant when they had all the information? Such overzealous use of Police powers must be</p>
+      <p n="108">condemned. The gap between civil and criminal law is very wide</p>
+      <p n="109">and one can not argue that the difference borders on a thin line.</p>
+      <p n="110">In conclusion therefore it is clear that the evidence before the lower court did not warrant a finding of guilty. The Stated had failed to discharge its duty to prove the case against the Appellant beyond a reasonable doubt. The lower court had misdirected itself on the weight of the evidence. I therefore proceed to quash the conviction and I set aside the sentence of 12 months imposed by the lower court. The said vehicle must be returned to the Appellant with immediate effect. This appeal succeeds in its entirety.</p>
+      <p n="111">It is so ordered.</p>
+      <p n="112">Pronounced in open court at MZUZU in the Republic this 21 st day of September, year 2010</p>
+      <p n="113">D.T.K Madise HIGH COURT OF MALAWI.</p>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<TEI.2 id="judg_2011_1" lang="en" n="2011_1">
+  <teiHeader date.created="2020-04-20" lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title type="main">Vincent Banda and Petros Mhango Vs The State</title>
+          <title type="sub">  Criminal Appeal Cause No 07 of 2011</title>
+        </title>
+      </titleStmt>
+      <extent>65 paragraphs segments</extent>
+      <publicationStmt>
+        <publisher>Amelia Taylor, tNyasa Data Labs</publisher>
+        <distributor>Amelia Taylor,tNyasa Data Labs,avtaylor14[at]gmail.com</distributor>
+        <availability>COND_AVAILABILITY</availability>
+        <date>April,2020</date>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only the court cases held at the Malawi Judiciary are deemed authentic.</note>
+      </notesStmt>
+      <sourceDescr>
+        <bibl>Malawi Criminal Cases Corpus, covering 2010 - 2019, Copyright: Amelia Taylor.</bibl>
+      </sourceDescr>
+      <projectDescr>The corpus was part of a project &quot;Semi-automatic Tools for Meta-Data extraction from Malawi court judgments.The project received a grant from AI4D.</projectDescr>
+      <classDecl>
+        <taxonomy>
+          <category xml:id="casetype">
+            <catDesc>The type of case: order, bail, application, review, etc.</catDesc>
+          </category>
+          <category xml:id="courtofhearing">
+            <catDesc>Criminal and which courts heard the case.</catDesc>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </fileDesc>
+    <textclass>
+      <catRef target="#casetype">
+        <keywords>
+          <list type="casetype">
+            <item>JUDGMENT</item>
+          </list>
+        </keywords>
+      </catRef>
+      <catRef target="#courtofhearing">
+        <keywords>
+          <list type="courts">
+            <item>REPUBLIC OF MALAWI</item>
+            <item>MALAWI JUDICIARY</item>
+            <item>IN THE HIGH COURT OF MALAWI</item>
+            <item>MZUZU DISTRICT REGISTRY</item>
+          </list>
+        </keywords>
+      </catRef>
+    </textclass>
+  </teiHeader>
+  <text>
+    <front>
+      <list type="caseinfo">
+        <item>CRIMINAL APPEAL CAUSE NO  07 OF 2011</item>
+        <item>CRIMINAL CASE NO  56 09</item>
+        <item>BEING FIRST GRADE MAGISTRATE AT RUMPHI</item>
+      </list>
+      <list type="parties">
+        <item>BEN EEN</item>
+        <item>VINCENT BANDA</item>
+        <item>PETROS MHANGO</item>
+        <item>THE STATE</item>
+      </list>
+      <list type="coram">
+        <item>THE HONORABLE MR  JUSTICE D T K  MADISE</item>
+        <item>Mr  C  Chithope Mwale Counsel for the Appellants</item>
+        <item>Mr  N  Msowoya W  Mwafulirwa Counsel for the State</item>
+        <item>Mrs  P F  Msiska Official Interpreter</item>
+        <item>Mrs  F  Silavwe Court Reporter</item>
+      </list>
+    </front>
+    <body>
+      <p n="1"> Introduction The Appellants were charged with the offence of burglary contrary to section 309 Penal Code on the 1st count and theft contrary to section 278 Penal Code on the second count. The particulars were that the Appellants on or about the 27th day of December 2008 at Livingstonia in the District of Rumphi broke and entered The dwelling house of Soraya Van Rooy with the intent to steal therein. On the second count it was alleged the Appellants at the same time and place as stated in the first count stole two traveling bags containing various items the property of Soraya Van Rooy.</p>
+      <p n="2">It is important to point out that the prosecution did not do a good job. The charge was framed in a hurry. A charge must be clear and unambiguous. By simply saying the Appellant stole various items/properties is not good. Secondly various properties without description and value are bad in law. These short falls can easily prejudice an accused when making his defence. Most importantly these short cuts can also confuse the court when it comes to assessment of the damage caused for sentencing purposes.</p>
+      <p n="3">However the Appellants denied both counts and the matter went to trial. At the end of the trial the lower court found the Appellants guilty and they were convicted on both counts and sentenced to imprisonment for 9 years under count one and 3 years under count two. The court below ordered both sentences to run concurrently. Being unsatisfied with the decision of the lower court the Appellants now appeals to this court against both conviction and sentence.</p>
+      <p n="4"> Appeals in this Court I'm reminded that appeals in this Court are by way of rehearing. When this Court is considering an appeal from the court below, it proceeds by way of re-hearing of all the evidence that was before the court below, the findings of fact and the law applied and then consider in the light of all that took place during trial whether the court below was within jurisdiction in coming to its conclusion.</p>
+      <p n="5">Grounds of Appeal The Appellant filed four grounds of appeal three against conviction and one against sentence. We reproduce them.</p>
+      <p n="6">Appeal against Convictions 1. The lower court erred in relying on hearsay evidence. 2. The lower court erred in disbelieving the 1st Appellant's defence that the camera belonged to the 2nd Appellant and that he was only escorting the 2nd Appellant to sell the cameras without any concrete basis. 3. The lower court erred in convicting the Appellants when there existed a reasonable doubt as to their guilt on the totality of the evidence. Appeal against Sentence 4. The sentence imposed by the lower court was manifestly excessive in the circumstances of the case.</p>
+      <p n="7">The Issues There are basically two main issues for determination before this court. (a) Whether the conviction was proper regard being had to the circumstances of the case.</p>
+      <p n="8"> Whether the sentence was within jurisdiction.</p>
+      <p n="9">The Evidence</p>
+      <p n="10">The State called 5 witnesses to substantiate their claim. PW 1 was Michel Wild from Austria. He runs two lodges at Manchewe in Livingstonia. He stated that the victim was his guest who was accompanied by two others. The guests had a lot of luggage all the way from the Netherlands. The two female and one male all booked one room.</p>
+      <p n="11">When the guests settled down they came out with a camera and started taking pictures. Thereafter they went to a dining room. Late in the evening they returned to their room only to find that four big bags, 400 US Dollars and cameras were missing. They reported the matter to the</p>
+      <p n="12">Some months later members of the community police informed him that someone had been arrested in Mzuzu for being found in possession of a camera suspected to have been stolen. When shown he identified the camera and charger as one belonging to one of his visitors. PW 1 stated that his evidence was not that the accused persons had stolen but that the 1st Appellant was found with a stolen camera.</p>
+      <p n="13">PW2 Dickson Msiska from Kakachula in Rumphi stated that he knew the two Appellants. He also identified PW l. He recalled that he had been informed of the theft at the lodge and that the ISt Appellant had approached him with the view to confess. That the 1st Appellant admitted offering the camera for sale in MZUZU together with the 2nd Appellant. In cross examination PW2 stated that the 1st Appellant never admitted stealing the camera.</p>
+      <p n="14"> PW3 was No. A 6041 D/S Madala from Rumphi Police Station. He recalled that on 27th December 2008 he received a report that two Dutch ladies who were guests at a lodge in Livingstonia had had their room broken into and several items were stolen including a digital camera.</p>
+      <p n="15">The 1st Appellant was arrested in MZUZU with a digital camera and information was relayed to Rumphi Police. Then the 2nd Appellant was also arrested. The said camera was sold to Petrols Waltara a Kenyan national and it was the ISt Appellant who had led them there. PW3 stated the Appellant's were pushing the blame on each other, by saying that the camera belonged to the other. The 2nd Appellant stated that he had been given the camera by the ISt Appellant and vice versa.</p>
+      <p n="16">PW4 was Constable Nangweli based at Mzuzu Police Station. He recalled that in December 2008 he received information that some people were offering a digital camera for sale. He made a follow up and arrested. Vincent Banda the ISt Appellant. He admitted selling it to a Kenyan man. The Kenyan man when confronted admitted buying the camera from two men. When confronted the ISt Appellant stated that he got the camera from the 2nd Appellant.</p>
+      <p n="17">PW5 was Peter Kelga from Mulani District in Kenya. He currently resides in MZUZU. He recalled receiving a message earlier in 2009 that someone was selling a camera. The 1st Appellant brought two cameras and one was digital. The ISt Appellant had come with two other boys who had remained outside. The 1st Appellant told PW5 that his brother from London had sent him the cameras. PW5 stated that he did not want to buy the camera because he had no money. The 1st Appellant insisted and PW5 released K4, 000 for the price of K30, 000 being part payment. The other</p>
+      <p n="18"> day the 1st Appellant collected another K3, 000 and PW5 kept the digital camera. All this time the 2nd Appellant was not there.</p>
+      <p n="19">After some time the police arrived and took the camera because it was allegedly stolen. This marked the close of the prosecution's case and the court below found a case to answer and invited the two to make a</p>
+      <p n="20">Defence In presenting his defence the ISt Appellant stated that in end January 2009 the 2nd Appellant went to his home and told him he had some cameras for sale. He requested the 1 st Appellant to escort him to sell them. He was also shown some visa cards and wires for joining the cameras. The two went to MZUZU. In MZUZU they met Ackimu Kasambara who promised to look for a customer.</p>
+      <p n="21">The two also went to Chanza a friend who was not happy with the items the two were carrying because they had no documents. When confronted by Chanza the 2nd Appellant stated that the goods were his. Finally the camera was sold to a Kenyan national. The 1 st Appellant admitted that it was him that had transacted with the Kenyan while the 2nd Appellant was outside. The price after negotiations was K30, 000. The Kenyan paid K7, 000 part payment. Then he was arrested by the Police and he took them to where he sold the camera. When he was granted bail, he went to the 2nd Appellant who refused to go to the Police. He reported the matter to the village headman and the 2nd Appellant was also arrested.</p>
+      <p n="22">The second defence witness was Shadreck Chisida, Village Headman Thabata, T/A Mwanahewe, Rumphi District. He stays in Mzuzu. He recalled</p>
+      <p n="23"> that in 2009 he returned home only to find the 1st Appellant with two friends. The ISt Appellant was his home mate. The 1st Appellant told him they had cameras for sale. When asked the 1st Appellant stated that the cameras belonged to the 2nd Appellant. The 2nd Appellant admitted but stated that he picked them along the way. That the small bag he found contained cameras, phones and ATMs card and that he had already sold some of the items.</p>
+      <p n="24">DW2 got suspicious and told the three boys to leave his house immediately. However DW2 wanted to know if the cameras were working. The other two boys failed to operate them. Only the 2nd Appellant operated the cameras. The boys left the following day with their items.</p>
+      <p n="25">DW3 was Ackim Kasambara a driver for Mbonekera Transport. He stated that the two Appellants were his home mates. He recalled receiving the two Appellants and another boy who said they had goods for sale. DW3 did not have money and the three left. 3 days later they returned and stated that they had cameras which they managed to sell. The other day he met the 2nd Appellant who told him that he was leaving for home. A week later he met the 1st Appellant who told him he had just came out of prison due to the cameras. He spent two days at DW3's house before going home.</p>
+      <p n="26">DW4 Ester Gondwe a mother to the ISt Appellant told court that in February 2009 the 2nd Appellant had returned to her house and told her that her son was still in MZUZU. That he had failed to travel due to transport money. Later she heard her son had been arrested due to a camera belonging to the 2nd Appellant. When she confronted the 2nd Appellant</p>
+      <p n="27"> he admitted that the cameras were his and that he had found them along the way at Luzi. He promised to go and see the 1st Appellant.</p>
+      <p n="28">DW5 was the 2nd Appellant Petros Mhango, a farmer and charcoal seller. He recalled that on 10th April, 2009 he arrived home only to be greeted by the police. They searched his home but found nothing. He was accused of breaking into a lodge and stealing items therein. He was taken to Rumphi and then MZUZU to meet a certain buyer. He denied taking the 1st Appellant to MZUZU. Infact he denied knowing the 1 st Appellant. He denied any knowledge of the cameras. The 2nd Appellant denied any involvement in this case whatsoever.</p>
+      <p n="29">Law and Evidence</p>
+      <p n="30">Burden and Standard of Proof It is trite that in this matter the State was duty bound to prove each and every element of this offence and the standard required by the criminal law is beyond a reasonable doubt. The relevant provision is section 187(1) of the Criminal Procedure and Evidence Code.</p>
+      <p n="31">The burden of proving any particular fact lies on the person who wishes the court or jury as the case may be to believe in its existence, unless it is provided by any written law that the proof of such fact shall lie on any particular person.</p>
+      <p n="32">Provided that subject to any express provision to the contrary in any written law the burden of proving that a person is guilty of an offence lies upon the prosecution</p>
+      <p n="33"> Our own local case is Namonde vs. Rep. [1993] 16(2) MLR 657 in which my late elder brother and renowned jurist Chatsika, J. as he was then called, in affirming Lord Sankey views in Woolminqton vs. Director of Public Prosecution [1935] AC 462, summed up the law as follows.</p>
+      <p n="34">&quot;It should be remembered that subject to any exception at common law, cases of insanity and to various statutory provisions, the prosecution bears the burden of proof on every issue in a criminal case.</p>
+      <p n="35">Section and Law The charge section is 309 of the Penal Code. The elements of the offence are clearly spelt out as follows:</p>
+      <p n="36">Any person who — (a) breaks and enters any building, tent or vessel used as a human dwelling with intent to commit a felony therein; or (b) having entered any building, tent or vessel used as a human dwelling with intent to commit a felony therein, or having committed a felony in any such building, tent or vessel, breaks out thereof, Shall be guilty of a felony termed &quot;housebreaking&quot; and shall be liable to be punished with death or with imprisonment for life. If the offence is committed in the night, it is termed &quot;burglary&quot; and the offender shall be liable to be punished with death or with imprisonment for life.</p>
+      <p n="37">The Finding The elements for the two offences are self explanatory. For burglary to stand there must be a breaking in and out of a dwelling house during</p>
+      <p n="38"> night hours with intent to commit a felony therein. For theft to stand it is trite that there should be taking of property capable of being stolen without consent with the view to permanently deprive the owner of the thing stolen. As stated earlier on there is no dispute that the two offences were committed. The question is who committed the offences. The Police arrested and charged the Appellants and yet no one saw them commit the offences.</p>
+      <p n="39">There is no dispute that a lodge situate at Livingstonia belonging to PW 1 was broken into. Two Dutch guests had booked a room. They kept their personal belongings in travel bags inside this room. They went outside to admire the beauty of Livingstonia. On their return they found several items missing. Among them was a digital camera. The matter was reported to the police.</p>
+      <p n="40">Three and half months later the 1st Appellant was arrested for selling one of the stolen cameras to a Kenyan National. When asked he mentioned the 2nd Appellant. The 2nd Appellant had denied any knowledge of the issue. The 1st Appellant alleged he was approached to escort the 2nd Appellant to MZUZU to sell the cameras. PW5 Peter Kelga admitted buying one digital camera from the ISt Appellant on the strength that the Appellant had received the same from his brother in the UK. He did not see the 2nd Appellant since two other men had stood outside. The 2nd Appellant denied being with the ISt Appellant in Mzuzu.</p>
+      <p n="41">DW2 told court both the and 2nd Appellant arrived at his hoose with a third person. They said they had cameras for sale which belonged to the 2nd Appellant. DW2 was suspicious and he chased the boys away. This was confirmed by Ackim Kasambara. He told court he knew both the ISt</p>
+      <p n="42"> and 2nd Appellants as his home mates. This time around they had approached him in MZUZU with items for sale. He didn't have the money.</p>
+      <p n="43">DW4 the 1st Appellant's mother told court the 2nd Appellant had admitted that the camera in issue was his and that he was going to tell the Police about it and he was going to see the ISt Appellant who was in custody.</p>
+      <p n="44">I do not think the 2nd Appellant is telling the truth that he did not know the 1st Appellant or that he never went to MZUZU with him. The two Appellants knew each other very well. They came from together up the hills in Livingstonia. However the I st Appellant although admitting going to Mzuzu to sell the cameras, had pushed ownership to the 2nd Appellant.</p>
+      <p n="45">How then did he offer them for sale to this Kenyan national while the 2nd Appellant stood outside? What authority did he have to transact? The Kenyan national told court he never met the 2nd Appellant. The money was received by the 1st Appellant. The Kenyan man stated that he bought the camera since the ISt Appellant had assured him the camera was from his brother in the UK. It is clear that he cannot deny involvement in this matter.</p>
+      <p n="46">In my considered opinion I find that both Appellants were involved actively in the sale of these stolen items. The 2nd Appellant knew how to operate the digital camera while the 1st Appellant failed. The 1st Appellant was the main negotiator while the 2nd Appellant gave advice on the acceptable price. I conclude that both were actively involved in the sale of the two cameras. But selling cameras is not an offence.</p>
+      <p n="47"> The two were not caught red handed breaking in and committing a felony therein. They were only found with one item which was stolen from the room in question. What is the connection since all this is circumstantial evidence.</p>
+      <p n="48">Circumstantial Evidence</p>
+      <p n="49">The evidence before this court is circumstantial. Where circumstantial evidence is entirely relied upon, the State must clearly show the various links in the chain of events and its cumulative effect must leave only one rational and logical conclusion that it is the Appellants who committed the crime and no one else. Mere possession of stolen items may not be enough if there is reasonable and plausible explanation.</p>
+      <p n="50">Therefore after eliminating all possibilities of innocence what must remain is the guilty of the Appellants. In this case before me, can it be said that after eliminating all reasonable hypothesis of innocence, the Court will arrive at one conclusion that it was the Appellants who committed the crime? Was their conduct so SUSPiCiOUS as a raise an inference on guilt on their part? In answering the same, we must have recourse to the doctrine of recent possession.</p>
+      <p n="51">Doctrine of recent possession The doctrine of recent possession operates on the premises that an accused's handling of the goods is disproved, thus he offers no reasonable explanation for his being found with the goods shortly after they were reported stolen. Where the accused is in possession of stolen goods so recently the inevitable inference is that he is the thief. However if the accused gives an explanation he must be acquitted. The doctrine of recent possession raises a presumption which calls upon the accused to</p>
+      <p n="52"> give an explanation to the satisfaction of the court and on a balance of probabilities (reversal burden of proof) as to how he came by the same.</p>
+      <p n="53">Whether possession is recent is a question of fact and degree depends on all the circumstances of the case in question. In Marcus (1923) 17 Cr. App. R 191 a period of 8 months between the theft and the time the goods were first seen in the possession of the accused was too long a period for the doctrine to apply. In this matter before this Court the period is about three and half months.</p>
+      <p n="54">In Banda vs Rep (1997) 2MLR 102, the court stated thus: Speaking generally where the only evidence is that the defendant was found with property recently stolen, it is not easy to exclude the possibility that the defendant was a receiver of stolen goods. Usually however, there is evidence that points the way. The court may care to consider the time and place of the theft, the type of the property stolen, whether the property readily passes hands, the circumstances of the defendant, whether he is connected in time and space to the complainant and anything that is said by the defendant.</p>
+      <p n="55">In this matter the scene of crime was at a Lodge in Livingstonia. The two Appellants also resided in Livingstonia at the time the crime was committed. There is a connection in time and space. Have the two given a reasonable explanation on how they were found in possession of the digital camera? Can this Court believe the story that there was a small</p>
+      <p n="56"> bag lying idle by the road side? It will be a sad day for justice if this story was to carry the day in this Court.</p>
+      <p n="57">Conclusion In conclusion this court must still ask itself the question whether the State managed to discharge its duty to prove the case against the two beyond a reasonable doubt. I have gone through the evidence and I'm convinced that the lower court was correct when it found that the State had proved the case beyond a reasonable doubt. I therefore proceed to uphold the convictions on both counts and in respect of both Appellants.</p>
+      <p n="58">Appeal against convictions is dismissed.</p>
+      <p n="59">Appeal against Sentence On appeal it is not the business of the upper court to tamper with a sentence unless it can be shown that the same was wrong in law or that it was manifestly excessive.</p>
+      <p n="60">The two Appellants were given sentences of 9 years for count one and 3 years for count two. Both were to run concurrently. Properties stolen were valued at around K400, 000.00 and only the digital camera was recovered. No violence was used during the commission of the offences. According to the record both were first and young offenders. When passing sentence a court should consider and weigh the aggravating circumstances and the mitigating factors and come to an informed conclusion as to the type of sentence to be passed. In the final analysis, any sentence passed must be blended with a measure of mercy.</p>
+      <p n="61"> A sentence must fit the offence and the offender but also reflect the general feeling of the public. A sentence must not outrage members of the general public for being too harsh or too lenient.</p>
+      <p n="62">I find the sentence of 9 years for the offence of burglary in these circumstances to be on the higher side. I reduce it to 4 years. I also reduce the sentence of 3 years for theft to 2 years. Both sentences are to run concurrently. The two Appellants will serve a total of 4 years with effect from the dates of their arrests.</p>
+      <p n="63">The Appeal against sentence succeeds.</p>
+      <p n="64">uzu in the Republic this 3rd October, 2011. D.T.K. Madise</p>
+      <p n="65">Pronounced in O</p>
+    </body>
+  </text>
+</TEI.2>

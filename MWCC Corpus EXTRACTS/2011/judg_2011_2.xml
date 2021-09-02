@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<TEI.2 id="judg_2011_2" lang="en" n="2011_2">
+  <teiHeader date.created="2020-04-20" lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title type="main">Gregory Mwaungulu Vs The State</title>
+          <title type="sub">  Criminal Appeal Case No 37 of 2010</title>
+        </title>
+      </titleStmt>
+      <extent>41 paragraphs segments</extent>
+      <publicationStmt>
+        <publisher>Amelia Taylor, tNyasa Data Labs</publisher>
+        <distributor>Amelia Taylor,tNyasa Data Labs,avtaylor14[at]gmail.com</distributor>
+        <availability>COND_AVAILABILITY</availability>
+        <date>April,2020</date>
+      </publicationStmt>
+      <notesStmt>
+        <note>Only the court cases held at the Malawi Judiciary are deemed authentic.</note>
+      </notesStmt>
+      <sourceDescr>
+        <bibl>Malawi Criminal Cases Corpus, covering 2010 - 2019, Copyright: Amelia Taylor.</bibl>
+      </sourceDescr>
+      <projectDescr>The corpus was part of a project &quot;Semi-automatic Tools for Meta-Data extraction from Malawi court judgments.The project received a grant from AI4D.</projectDescr>
+      <classDecl>
+        <taxonomy>
+          <category xml:id="casetype">
+            <catDesc>The type of case: order, bail, application, review, etc.</catDesc>
+          </category>
+          <category xml:id="courtofhearing">
+            <catDesc>Criminal and which courts heard the case.</catDesc>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </fileDesc>
+    <textclass>
+      <catRef target="#casetype">
+        <keywords>
+          <list type="casetype">
+            <item>JUDGMENT</item>
+          </list>
+        </keywords>
+      </catRef>
+      <catRef target="#courtofhearing">
+        <keywords>
+          <list type="courts">
+            <item>REPUBLIC OF MALAWI</item>
+            <item>MALAWI JUDICIARY</item>
+            <item>IN THE HIGH COURT OF MALAWI</item>
+            <item>MZUZU DISTRICT REGISTRY</item>
+          </list>
+        </keywords>
+      </catRef>
+    </textclass>
+  </teiHeader>
+  <text>
+    <front>
+      <list type="caseinfo">
+        <item>CRIMINAL APPEAL CASE NO  37 OF 2010</item>
+        <item>CRIMINAL CASE NO  123 OF 2009</item>
+        <item>BEING IN THE TGM COURT NYUNGWE</item>
+      </list>
+      <list type="parties">
+        <item>GREGORY MWAUNGULU</item>
+        <item>THE STATE</item>
+      </list>
+      <list type="coram">
+        <item>Honorable Mr  Justice D T K  Madise</item>
+        <item>Mr  C  Ghambi  Counsel for the Appellant</item>
+        <item>Mr  N  Msowoya Counsel for the State</item>
+        <item>Mr  I Z  Bondo Official Interpreter</item>
+        <item>Mrs  F  Silavwe Court Reporter</item>
+      </list>
+    </front>
+    <body>
+      <p n="1"> Introduction The Appellant was arrested and charged with the offence of breaking into a building and committing a felony therein contrary to section 311 of the benal code (Cap 7:01) of the Laws of Malawi. The particulars were that the Appellant on about the night of 14 December, 2009 at Vinthukutu Agriculture Offices broke and entered into a government office and stole therein a motor cycle with registration No. MG 820 and two crush helmets worth K509, 000.00 properties of the Government of Malawi. The Appellant pleaded not guilty, and after a full trial, he was found was guilty, convicted and sentenced to 6 years imprisonment. Being unsatisfied with the decision of the court below, he now appeals to this court against both conviction and sentence.</p>
+      <p n="2">Appeals When this Court is considering an appeal from the court below, it proceeds by way of re-hearing of all the evidence that was before the court below, the findings of fact and the law applied and then consider in the light of all that took place during trial whether the court below was within jurisdiction in coming to its conclusion. Jurisdiction in this regard is not whether the lower court had the power or mandate to sit, but rather whether the court below was within the parameters of the law regard being had to the totality of the evidence.</p>
+      <p n="3">Grounds of Appeal The Appellant filed two grounds of Appeal which we reproduce as follows:-</p>
+      <p n="4">1. The magistrate erred in law in convicting the appellant with the offence while the elements of the offence were not approved beyond reasonable</p>
+      <p n="5">2. The sentence was excessive with regard to the circumstance of the offence.</p>
+      <p n="6"> Skeletal Arguments. Mr. Christon Ghambi from Legal Aid Chambers representing the Appellant was of the strong view that the State had failed to prove the elements of the offence under section 311 of the Penal Code beyond a reasonable doubt. That the evidence was circumstantial which could not warrant a conviction. He prayed to Court to quash the conviction and set aside the sentence. In the alternative he prayed to Court to reduce the sentence of 6 years for being excessive.</p>
+      <p n="7">Mr. Tisungane Makato from State Advocate Chambers representing the State was of the contrary view that the State had made out its case against the Appellant and that the court below had rightly convicted the Appellant. He prayed that the appeal against conviction should be dismissed but he agreed with Mr. Ghambi that the sentence should be reduced to one of 5 years imprisonment.</p>
+      <p n="8">The Issues There are basically two main issues for determination before this Court. 1. Whether there was enough evidence to a warrant of conviction. 2. Whether the sentence was within jurisdiction.</p>
+      <p n="9">The Evidence The State paraded 3 witnesses before the trial court. PWI was Herbert Soko aged 47 an Agriculture Extension Development Co-coordinator (AEDC). He stated that the Appellant was an cattle handler and a watchman for the Vinthukutu Agriculture Office. He stated that on 14th December 2009 he left his motor cycle at the Office. He then went home at 5:00 pm. The Appellant reported at 7:00 pm at PW1's house. They chatted up to 9:00 pm. Then the Appellant went to his work station.</p>
+      <p n="10"> At around 4:00 am the Appellant went to PW1's house and reported that one motor cycle and 2 crush helmets had been stolen at the office. That he had found the office door opened. PWI stated that the Appellant told him that he had hidden elsewhere (cattle kraal) hence the thieves took advantage and broke and entered the office. The matter was reported to the Police. PWI stated that there were no hand overs on that day as the Appellant had reported at 7:00pm instead of 5:00pm.</p>
+      <p n="11">PW2 was Rodgers Ngwira aged 49, a Senior Forestry Officer at Vinthukutu EPA. He stated were on 14th December 2009 at around 9:45 pm there were heavy rains and electricity went off. He went out of the house with a torch to fetch his kids. While there he noticed at distance two unidentified persons struggling with something which he could not identify. The two then fell down with the thing. That was when he had realised that it was a motor cycle. He rushed inside to alert his wife and he came out again. He saw that the one man who was tall started running toward the tarmac road. The other one remained and continued to struggle with the motor cycle. After sometime he went to the office to check and noticed that the motor cycle had been pushed away.</p>
+      <p n="12">He tried to phone the AEDC but no avail. He tried several other people but he did not succeed. The next morning he was informed by the AEDC that one motor cycle had been stolen and that the matter had been reported to the Police. PW2 suspected that the tall man he saw was the Appellant. He stated that the Appellant had enough space at the offices to hide from the rains and he wondered how and why he was hiding in the cattle kraal.</p>
+      <p n="13">PW3 was No. A6528 Detective Sergeant Mwakwawa of Chilumba Police Post. He recalled that it was on 15th December, 2009 when Mr. Herbert Soko reported that their Office had been broken into and that one motor cycle a Yamaha DT 125 and two crush helmets had been stolen. PW3 became suspicious</p>
+      <p n="14"> and arrested the Appellant who was later cautioned and charged him with the present offence. He told court that all efforts to recover the stolen items were futile. At that moment the State closed its case and the court ruled that there was established a prima facie case requiring the Appellant to make a reply and call witnesses if he so wished.</p>
+      <p n="15">Defence Gregory Mwaungulu aged 31 years was employed as a cattle handler at Vinthukutu Agriculture Office. He stated that on 14th December, 2009 he reported for duty as a watchman to the cattle kraal. It was raining and electricity had gone off. He told court that he remained in the kraal until 4:00am when the rain had stopped. He started off for Mr. Soko's house to sign off and as he was passing the office he realized that the office was open. He was surprised and he went to report to his boss. He was eventually arrested by the Police. He told court that he was employed as a cattle handler who was also helping in farming and ploughing. He denied stealing the motor cycle. That marked the end of the defence's case</p>
+      <p n="16">Law and Evidence. The charge is under section 311 of the Penal Code which states as follows:- Any person who —</p>
+      <p n="17">1) Breaks and enters a schoolhouse, shop, warehouse, store, office, counting house, garage, pavilion, dub, factory, workshop, or any building belonging to the Government, or to any Government Department, or to the Municipality, township or other public or /oca/ authority, or a building which is adjacent to a dwe//ing house and occupied with it, but is not part of it, or any building used as a place of worship and commits a felony herein.</p>
+      <p n="18">2) Breaks out of the same housing committed a felony therein, sha// be guilty ofa felony and re/iab/e to imprisonment for ten years.</p>
+      <p n="19"> The Elements The following are the elements under the charge section.</p>
+      <p n="20">a) Breaks and enters a described building. b) With intention to commit a felony therein. c) Breaking out having committed any felony therein.</p>
+      <p n="21">PW2 stated that on the material day at around 9:45 pm while it was raining and while the lights had gone off he went outside his house. While there he saw two people struggling to push a motor cycle. He noted that one of them was tall and he suspected it was the Appellant since he is also tall. He did not see the faces of these two people. The evidence as presented indicates that the offices were broken into and one motor cycle was stolen. This means there was a breaking into a government office and while inside the thieves committed the felony of theft and broke out. This is not in dispute. The fact that a crime was committed under section 311 of the penal code has been proved. The question before me is who was/were responsible for the offence?</p>
+      <p n="22">PWI stated that the Appellant was a cattle handler and a watchman. That on the maternal he had reported at 7:00 pm instead of 5:00 pm. That he had chatted with the Appellant up to 9:00 pm when it started raining. Why PWI had allowed the Appellant to remain at his house for a chat up to that late instead of reporting at his duty station leaves too many questions than answers. DWI stated that his duty station was the cattle kraal and not the offices. It is not clear what the actual job description of the Appellant was. Was he a cattle handler or he was also employed as a watchman? If he was also a watchman what was his job? Was he supposed to guard the cattle or the entire office? It is not clear from the evidence.</p>
+      <p n="23"> PW2 stated that He saw two men pushing a motor cycle. What else did he do apart from telling his wife? He tried to phone but he could not get through and he decided to sleep. He was not serious. Did he try waking up the neighbours? The answer is in the negative.</p>
+      <p n="24">That notwithstanding, is there any evidence pointing at the Appellant? Can we rightly say that because he was at the offices then it ought to have been him who committed this offence? Did PW2 go and check whether the Appellant was at his duty station or that he had gone away to dispose of, the stolen bicycle? The witness said the other man was tall and he suspected it was the Appellant. But PW2 did not see the faces of these two thieves. How then can this Court come to the conclusion that it was indeed the Appellant in the absence of any other independent evidence substantiating these allegations?</p>
+      <p n="25">Burden and Standard of Proof</p>
+      <p n="26">It is trite that in this matter the State was duty bound to prove each and every element of this offence and the standard required by the criminal law is beyond a reasonable doubt. The relevant provision is section 187(1) of the Criminal Procedure and Evidence Code.</p>
+      <p n="27">The burden of proving any particular fact lies on the person who wishes the court or jury as the case may be to believe in its existence, unless it is provided by any written law that the proof of such fact sha// lie on any particular person.</p>
+      <p n="28">Provided that subject to any express provision to the contrary in any written law the burden of proving that a person is guilty of an offence lies upon the prosecution</p>
+      <p n="29"> Several Malawi cases have re-affirmed the position of Lord Sankey in Woolmington vs. Director of Public Prosecution [1935] AC 462, who summed up the law as follows.</p>
+      <p n="30">&quot;It should be remembered that subject to any exception at common law, cases of insanity and to various statutory provisions, the prosecution bears the burden of proof on every issue in a crimina/ case.</p>
+      <p n="31">Circumstantial evidence</p>
+      <p n="32">The evidence before this court is circumstantial. Where circumstantial evidence is entirely relied upon, the State must clearly show the various links in the chain of events and its cumulative effect must leave only one rational and logical conclusion that it is the Appellant who committed the crime and no one else.</p>
+      <p n="33">Therefore after eliminating all possibilities of innocence what must remain is the guilty of the Appellant. In this case before me, can it be said that after eliminating all reasonable hypothesis of innocence, this Court will arrive at one conclusion that it was the Appellant who committed the crime?</p>
+      <p n="34">The determination The story must end this way. There is evidence that thieves had broken and entered Offices belonging to Vinthukutu Agriculture. While inside the thieves committed a felony to wit of theft of a government motor cycle and two crush helmets. At that point the State had partly discharged its burden. However is there evidence to show that it was the Appellant?</p>
+      <p n="35">I have searched the evidence and found none. The law tells us that circumstantial evidence must be treated as the name suggests. I have on many occasions stated the importance of caution when circumstantial evidence is</p>
+      <p n="36"> entirely relied upon. [See Maloza Manda vs. Republic, Criminal Appeal No. 21 of 2010, Mzuzu Registry (unreported)]. The fact that someone was on night duty as a guard and things go missing does not in itself make him responsible. There must be other independent evidence connecting him to the crime. The proper charge against the Appellant if indeed he was a night guard was negligence by a public officer in preserving money or other property belonging to the government which was under his control or custody under section 284 of the Penal Code.</p>
+      <p n="37">I therefore find that the court below misdirected itself on the standard of proof. The elements of the offence were not proved. I therefore agree with the Appellant that the conviction was unsafe and therefore should be quashed and the sentence set aside. It is so ordered.</p>
+      <p n="38">Appeal allowed.</p>
+      <p n="39">zu in the Republic this 21st February 2011.</p>
+      <p n="40">Pronounced in Open C</p>
+      <p n="41">D.T.K. Madise</p>
+    </body>
+  </text>
+</TEI.2>
